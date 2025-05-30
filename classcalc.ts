@@ -15,4 +15,4 @@ class Calculator {
 
 }
 const calculator = new Calculator();
-    console.log(calculator.add(793,255));
+    console.log(calculator.add(hello,gudby));
